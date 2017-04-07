@@ -1,0 +1,11 @@
+// ==UserScript==
+// @name            JFL
+// @version         1
+// @run-at          document-end
+// @include         /^https?:\/\/(?:w{3})?\.?jump4love\.com/
+// @grant           unsafeWindow
+// @grant           GM_addStyle
+// @grant           GM_getResourceText
+// @grant           GM_xmlhttpRequest
+// @noframes
+// ==/UserScript==
